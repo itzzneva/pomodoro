@@ -9,4 +9,5 @@ How I designed this:
    I embedded google fonts. 
    I have also allowed different colours for my blue theme, which makes my design more visually appealing overall. 
 5) In the Javascript file, I have allowed the user to click on buttons so the time can start running.
-   use JavaScript's setInterval() function to count down each second. 
+   use JavaScript's setInterval() function to count down each second.
+   There is an event listener for the reset button, allowing the user to repeat the process. 
