@@ -5,4 +5,5 @@ My own timer with a short break, long break and focus button. The maximum the us
 How I designed this: 
 1) In the HTML file, I created different classes and buttons which I could style in CSS.
 2) In the CSS file, I have designed the button and the time box, allowing it to have a circular border.
-3) In the Javascript file, I have allowed the user to click on buttons so the time can start running. 
+   I have also allowed different colours for my blue theme, which makes my design more visually appealing overall. 
+4) In the Javascript file, I have allowed the user to click on buttons so the time can start running. 
