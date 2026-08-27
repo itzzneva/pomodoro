@@ -1,2 +1,2 @@
 # pomodoro
-my own pomodoro timer with a short break, long break and focus button. The maximum the user can concentrate for is 50 minutes. 
+My own timer with a short break, long break and focus button. The maximum the user can concentrate for is 50 minutes. They can take a short break for 5 minutes and a long break for 10 minutes. The buttons allow them to switch in between. They can pause in case they need to do something else. My timer displays the count in the middle so the user is aware of how much time is passed in a circle. It has a blue background and button changes colour once you hover over it so they user is aware of what they are pressing. 
